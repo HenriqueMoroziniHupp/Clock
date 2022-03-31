@@ -1,4 +1,4 @@
 # Clock
-Analog clock with JS
+Relógio analógico utilizando HTML, CSS e JS
 
-Mini projeto web utilizando HTML, CSS e JS
+Link: https://luxury-daifuku-0e1b85.netlify.app/
